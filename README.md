@@ -47,7 +47,7 @@ The repository is organized into several folders, each containing specific types
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/Abuhamad/comp487.git
+   git clone https://github.com/mohammedobaidraza/comp-487.git
 
 2. **Navigate to the Relevant Folder:** Depending on what you're looking for, navigate to the appropriate folder (e.g., `notebooks/`, `models/`, etc.).
 
