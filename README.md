@@ -62,6 +62,6 @@ If you find any issues or have suggestions for improvements, please feel free to
 ## License
 This repository is licensed under the **MIT License**. Feel free to use the code for your own projects and learning.
 
-We hope this repository serves as a valuable resource for your journey into deep learning. Happy coding, and *best of luck with your studies in Spring 25!*
+I hope this repository serves as a valuable resource for your journey into deep learning. Happy coding, and *best of luck with your studies in Spring 25!*
 
 
