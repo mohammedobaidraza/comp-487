@@ -1,4 +1,4 @@
-# COMP 487 - Deep Learning Class
+# COMP 487 - Deep Learning Class.
 
 
 Welcome to the repository for the **Deep Learning Class** offered in Spring 25! This repository is designed to serve as a comprehensive resource for students enrolled in the course, providing code, demos, and examples to help you understand and implement key concepts in deep learning.
